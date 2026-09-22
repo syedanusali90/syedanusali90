@@ -321,7 +321,7 @@ Creative and frontend-focused freelance work spanning visual communication, bran
 # GitHub Trophies
 
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=syedanusali90&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1](https://github.com/syedanusali90/github-profile-trophy)" alt="GitHub Trophies" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=syedanusali-90&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1](https://github.com/syedanusali90/github-profile-trophy)" alt="GitHub Trophies" />
 </p>
 
 ---
