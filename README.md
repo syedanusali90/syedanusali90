@@ -321,7 +321,7 @@ Creative and frontend-focused freelance work spanning visual communication, bran
 # GitHub Trophies
 
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=syedanusali90-projects&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1](https://github.com/syedanusali90/github-profile-trophy)" alt="GitHub Trophies" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=syedanusali-90-projects&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1](https://github.com/syedanusali90/github-profile-trophy)" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -329,7 +329,7 @@ Creative and frontend-focused freelance work spanning visual communication, bran
 # Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedanusali90/syedanusali90&bg_color=0D0B1F&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedanusali-90/syedanusali-90&bg_color=0D0B1F&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph" />
 </p>
 
 ---
